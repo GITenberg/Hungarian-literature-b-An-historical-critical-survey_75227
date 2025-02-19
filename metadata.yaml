@@ -1,0 +1,36 @@
+_repo: Hungarian-literature-b-An-historical-critical-survey_75227
+_version: 0.0.1
+alternative_title: 'Hungarian literature :  An historical and critical survey'
+creator:
+  author:
+    agent_name: Reich, Emil
+    aliases:
+    - Reich, E. (Emil)
+    - Reych, Emil
+    - Reych, E. (Emil)
+    birthdate: 1854
+    deathdate: 1910
+    gutenberg_agent_id: '47905'
+    url: http://www.gutenberg.org/2009/agents/47905
+    wikipedia: https://en.wikipedia.org/wiki/Emil_Reich
+description: ''
+gutenberg_issued: '2025-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75227'
+language: en
+pgterms:marc905: 20250105122217reich
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Steven desJardins and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aBoston, MA :$bL. C. Page and Company, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian literature -- History and criticism'
+- !lcc 'PH'
+- GITenberg
+title: 'Hungarian literature : $b An historical & critical survey'
+url: http://www.gutenberg.org/ebooks/75227
