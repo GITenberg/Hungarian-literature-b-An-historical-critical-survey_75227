@@ -1,6 +1,9 @@
 _repo: Hungarian-literature-b-An-historical-critical-survey_75227
 _version: 0.1.0
 alternative_title: 'Hungarian literature :  An historical and critical survey'
+covers:
+- cover_type: archival
+  image_path: 75227-h/images/cover.jpg
 creator:
   author:
     agent_name: Reich, Emil
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47905
     wikipedia: https://en.wikipedia.org/wiki/Emil_Reich
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75227#Hungarian-literature-b-An-historical-critical-survey
 gutenberg_issued: '2025-01-27'
 gutenberg_type: Text
 identifiers:
